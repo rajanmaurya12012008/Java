@@ -1,5 +1,5 @@
 public class Sum {
-    public static void main(String[] args) {
+    public static void main() {
         int a = 5;
         int b = 10;
         int sum = a + b;
